@@ -1,9 +1,18 @@
-# 📊 Machine Learning Pipeline for Predictive Modeling - Crop Yield Prediction
+# 📊 Crop Yield Prediction – Machine Learning Pipeline
 
 ## 🚀 Overview
-This project implements an end-to-end machine learning pipeline, including data preprocessing, feature engineering, model training, and evaluation.
+This project was developed as part of the Kaggle competition:  
+**Crop Yield Prediction Challenge**
 
-The objective is to build robust predictive models and compare multiple algorithms to identify the best-performing approach.
+🔗 https://www.kaggle.com/competitions/crop-yield-prediction-challenge/overview
+
+The objective of the competition is to predict crop yields based on environmental, geographical, and agricultural features.
+
+This repository implements an end-to-end machine learning pipeline, including:
+- Data preprocessing  
+- Feature engineering  
+- Model training across multiple algorithms  
+- Model evaluation and comparison  
 
 ---
 
