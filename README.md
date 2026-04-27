@@ -8,9 +8,14 @@ The objective is to build robust predictive models and compare multiple algorith
 ---
 
 ## 📁 Project Structure
+
+```text
+.
 ├── algo_clean.ipynb # Main notebook
-├── data/ # Dataset (not included)
+├── crop_yield_train.xls # Training data
+├── crop_yield_test.xls # Test data
 └── README.md # Documentation
+```
 
 ---
 
