@@ -31,10 +31,8 @@ This repository implements an end-to-end machine learning pipeline, including:
 
 ### 1. Data Loading
 - Load dataset into a Pandas DataFrame
-- Perform initial inspection and cleaning
 
 ### 2. Data Preprocessing
-- Handle missing values
 - Encode categorical variables using `OneHotEncoder`
 - Scale numerical features using `StandardScaler`
 - Use `ColumnTransformer` to manage mixed data types
